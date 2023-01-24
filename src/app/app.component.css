@@ -1,0 +1,10 @@
+p {
+  font-family: Lato;
+}
+
+.content {
+  background-color: green;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+}

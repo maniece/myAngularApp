@@ -1,0 +1,14 @@
+.login {
+  border: 1px solid #000;
+  
+  background-color: rgb(210, 204, 235);
+  padding: 10px;
+  text-align:  center;
+  width: 400px
+}
+
+input[type='text'], input[type='password'] {
+  width: 75%;
+  height: 25px;
+  margin-bottom: 10px;
+}
